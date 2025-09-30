@@ -1,0 +1,27 @@
+h1{ 
+    color: blueviolet;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: brown;
+}
+
+p{
+    color: aqua;
+    margin-bottom: 50px;
+}
+
+a{
+    color: green;
+}
+
+div{
+    border: 3px solid black;
+    display: flex;
+}
+
+/* A tag is just put as tagname{adjustments here;} While a class tag is .tagname{adjustments here;}
