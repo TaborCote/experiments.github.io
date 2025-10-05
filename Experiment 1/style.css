@@ -1,29 +1,4 @@
-h1{ 
-    color: blueviolet;
-}
-
-h2{
-    color: blue;
-}
-
-h3{
-    color: brown;
-}
-
-p{
-    color: rgb(18, 19, 19);
-    margin-bottom: 50px;
-}
-
-a{
-    color: green;
-}
-
-div{
-    border: 3px solid black;
-    display: flex;
-}
-
 /* A tag is just put as tagname{adjustments here;} While a class tag is .tagname{adjustments here;} */
 
 /* for class names you cannot have a space, if you want multiple words they need to be seperated by a dash */
+
